@@ -43,7 +43,7 @@ merge_package https://github.com/vernesong/OpenClash OpenClash/luci-app-openclas
 # merge_package https://github.com/sirpdboy/sirpdboy-package sirpdboy-package/smartdns
 # git clone https://github.com/QiuSimons/openwrt-mos.git package/openwrt-mos
 git clone https://github.com/thinktip/luci-theme-neobird.git package/luci-theme-neobird
-# git clone https://github.com/sbwml/openwrt-alist.git package/openwrt-alist
+git clone https://github.com/sbwml/openwrt-alist.git package/openwrt-alist
 # svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-bypass package/luci-app-bypass
 git clone https://github.com/fw876/helloworld.git package/ssr
 git clone https://github.com/firker/diy-ziyong.git package/diy-ziyong
